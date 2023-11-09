@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #f07b26;
+  color: #f026ad;
 }
 
 .heading_container.heading_center {
@@ -192,7 +192,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #f07b26;
+  color: #f026e6;
 }
 
 .header_section .header_top .contact_nav a:hover i {
@@ -219,7 +219,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #f07b26;
+  color: #f026e6;
 }
 
 .header_section .header_top .social_box a:hover i {
